@@ -115,7 +115,15 @@
 border-top: 9px solid rgba(2, 0, 0, 0.418);
     
   }
+.about{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 120px;
+    /* padding: 10px 65px; */
 
+  }
   
   .d1 h2{
     font-size: 60px;
